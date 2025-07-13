@@ -1,0 +1,13 @@
+REM First time making a bad USB script
+GUI r
+STRING cmd
+ENTER
+
+DELAY 1000
+STRING notepad.exe
+ENTER
+
+DELAY 1000
+STRING wow this is hacking
+ENTER
+
